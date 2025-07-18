@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Better tools, 3D Mace and vibrant textures",
+        "name": "SRUPack",
+        "uuid": "fce82d69-c214-4f10-b5a7-96ae2c6e1c08",
+        "version": [0, 1, 4],
+        "min_engine_version": [1, 21, 71]
+    },
+    "modules": [
+        {
+            "description": "resource_pack",
+            "type": "resources",
+            "uuid": "51f4a2b0-98d2-47c3-84c1-c21117b273b3",
+            "version": [0, 1, 4]        
+        }
+    ]
+}
